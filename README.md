@@ -13,7 +13,7 @@ npx hardhat ignition deploy ./ignition/modules/Lock.js
 ```
 ## YouTube Video
 
-Here is a helpful video related to this project:
+Here is a demo video related to this project:
 
-[![Watch the video](https://img.youtube.com/vi/4CsXntBlI1A/0.jpg)](https://www.youtube.com/watch?v=4CsXntBlI1A)
+[![Watch the video](https://img.youtube.com/vi/4CsXntBII1A/maxresdefault.jpg)](https://youtu.be/4CsXntBII1A?si=Tl0dQY6aSLpxmmVj)
 
